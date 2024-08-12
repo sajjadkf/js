@@ -11,3 +11,6 @@ var num2 = 4
 
 //alert("12" + 4) => 124 -concat-
 //alert("12" - 4) =>8 -number-
+
+
+

@@ -1,4 +1,5 @@
 //variable
+// var یک نوع متغیر است
 //نکته: نمیتوان اول متغیر عدد اورد
 var usersCont = 4517
 var courses = 13
