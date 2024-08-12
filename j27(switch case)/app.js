@@ -1,6 +1,6 @@
 var num1 = 3
 var num2 = 4
- var num3 = num1 *num2 ;
+var num3 = num1 *num2 ;
 
  switch(num3) {
     case 10 :
