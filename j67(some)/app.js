@@ -7,7 +7,7 @@ var usersdata = [
  var isInuser = usersdata.some(function (user){
 
     return user.name == "mamad"
- })
+ }) 
  console.log(isInuser)
 
  //فرق سام و اینکلود این هست که اینکلود برای ابجکت پشتیبانی نمیشه اما سامخ میتونه

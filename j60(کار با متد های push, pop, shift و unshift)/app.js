@@ -1,28 +1,25 @@
+// مباحث مربوط به ارایه
 
-// var scores = [11, 19, 20, 16, 17]
+var number = [ 2 , 4 , 11 , 13]
+console.log(number)
 
-// console.log(scores)
+// push اضافه میکنه به ارایه و مقدار میخواد
+number.push(20)
+console.log(number)
 
-// // scores[5] = 13
-// scores.push(14, 17, 10)
+//pop حذف میکنه مقدار نمیخواد
+number.pop()
+console.log(number)
 
-// console.log(scores)
+//unshift اضافه میکنه از اول و عدد میخواد
+number.unshift(12,10)
+console.log(number)
 
-// scores.pop()
+//shift حذف میکنه از اول 
+number.shift()
+number.shift()
+console.log(number)
 
-// console.log(scores)
+//---------------------
 
-////////////////////  shift / unshift  //////////////////////////////////
-
-var scores = [11, 19, 20, 16, 17]
-
-console.log(scores)
-
-scores.shift()
-// scores.shift()
-
-console.log(scores)
-
-scores.unshift(10, 18, 14, 13)
-
-console.log(scores)
+number[5] = 18

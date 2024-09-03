@@ -8,4 +8,4 @@ console.log(Math.floor(12.1))  //اعشار حذف
 console.log(Math.trunc(12.2))  // اعشار حذف
 console.log(Math.round(12.6))  // 
 console.log(Math.ceil(12.9))   // به عدد قبلی مثلا 12 برمیگردونه
-console.log(Math.random())
+console.log(Math.random()) //عدد رندوم
