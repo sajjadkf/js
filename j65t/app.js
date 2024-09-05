@@ -6,4 +6,4 @@ var users = [
 
 users.forEach(function(user){
     console.log("name  : " + user.name +"\n" + "family : " + user.family)
-})
+})  
