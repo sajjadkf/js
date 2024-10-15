@@ -9,9 +9,9 @@
 <body>
     <div class="login-page">
         <div class="form">
-                <input type="text" placeholder="username" class="username" />
-                <input type="password" placeholder="password" class="password" />
-                <button onclick="dataValidation()">login</button>
+                <input type="text" placeholder="username" class="username"  onfocus="userfocus()" onblur="userblur()"/>
+                <input type="password" placeholder="password" class="password"  onfocus="passfocus()" onblur="passblur()"/>
+                <button >login</button>
                 <p class="message">Not registered? <a>Create an account</a></p>
         </div>
     </div>
