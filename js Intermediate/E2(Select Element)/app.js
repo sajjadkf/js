@@ -10,4 +10,4 @@ let firstele = document.querySelector('.list-item')
 
 let ulitems = document.querySelectorAll('.list-item')
 
-console.log(ulitems)
+console.log(lielement)
